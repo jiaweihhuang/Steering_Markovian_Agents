@@ -1,6 +1,6 @@
-# Learning to Steer Markovian Agents under Model Uncertainty
+# [ICLR 2025] Learning to Steer Markovian Agents under Model Uncertainty
 
-Code for the paper: [Learning to Steer Markovian Agents under Model Uncertainty](https://arxiv.org/abs/2407.10207).
+Code for the paper: [Learning to Steer Markovian Agents under Model Uncertainty](https://openreview.net/forum?id=IzYczpPqKq).
 
 ## Instructions on Environment Configuration
 
