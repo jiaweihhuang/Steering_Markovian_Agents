@@ -96,12 +96,12 @@ If you find the content of this repo useful, please consider citing:
 
 ```bibtex
 @inproceedings{
-    huang2024learning,
+    huang2025learning,
     title={Learning to Steer Markovian Agents under Model Uncertainty},
     author={Jiawei Huang and Vinzenz Thoma and Zebang Shen and Heinrich H. Nax and Niao He},
-    booktitle={ICML 2024 Workshop: Aligning Reinforcement Learning Experimentalists and Theorists},
-    year={2024},
-    url={https://openreview.net/forum?id=IMApc6iwkG}
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=IzYczpPqKq}
 }
 ```
 
